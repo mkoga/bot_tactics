@@ -1,0 +1,17 @@
+{
+  "name": "bot_tactics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.4.0",
+    "chess.js": "^0.9.1",
+    "request": "^2.60.0",
+    "slack-client": "^1.4.1"
+  }
+}
